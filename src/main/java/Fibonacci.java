@@ -1,6 +1,6 @@
 public class Fibonacci {
     public static void main(String[] args) {
-        int n = 50;
+        int n = 57;
         fib(n);
         System.out.println("algorytm się zakończył");
     }
